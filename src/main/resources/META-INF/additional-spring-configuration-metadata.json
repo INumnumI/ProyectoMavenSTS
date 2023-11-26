@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "sping.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'sping.datasource.driver-class-name'"
+  },
+  {
+    "name": "sping.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'sping.datasource.driver-class-name'"
+  }
+]}
